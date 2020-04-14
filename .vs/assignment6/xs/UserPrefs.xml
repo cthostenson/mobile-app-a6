@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C84DE9F2-016E-4861-811A-C5755FE46C3C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="assignment6/Views/ItemDetailPage.xaml">
+    <Files>
+      <File FileName="assignment6/Views/NewItemPage.xaml" Line="1" Column="1" />
+      <File FileName="assignment6/Views/ItemsPage.xaml" />
+      <File FileName="assignment6/Views/MainPage.xaml" />
+      <File FileName="assignment6/Views/AboutPage.xaml" />
+      <File FileName="assignment6/Views/ItemDetailPage.xaml" Line="6" Column="117" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="assignment6" expanded="True">
+            <Node name="assignment6" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="ItemDetailPage.xaml" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.assignment6.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.assignment6.Android PreferredExecutionTarget="Android.pixel2" />
+</Properties>
